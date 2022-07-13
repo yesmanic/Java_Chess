@@ -12,7 +12,7 @@
 This project is a prototype of Chess made thoroughly in Java and Swing, a graphic library for desktop applications with a bunch of components. 
 
 <div align="center">
-   <img src="#" alt="screenshot" height="300">
+   <img src="https://user-images.githubusercontent.com/62268626/178839902-066b7218-9d0e-4709-a153-32302842f709.png" alt="screenshot" height="300">
 </div>
 
 ### Built With
