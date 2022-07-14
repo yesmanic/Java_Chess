@@ -49,6 +49,6 @@ To get a local copy up and running follow these simple steps.
 
 Yesman - yesman.choque@gmail.com
 
-Project Link: https://github.com/yesmanic/Ignite_Lab
+Project Link: https://github.com/yesmanic/Java_Chess
 
 <p align="right">(<a href="#top">back to top</a>)</p>
